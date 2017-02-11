@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">know</string>
+    <string name="search">搜索用户</string>
+    <string name="love">收藏</string>
+    <string name="edit_love">编辑</string>
+    <string name="content">文章</string>
+    <string name="detail">答案详情</string>
+    <string name="users_detail">用户详细信息</string>
+    <string name="designedby">Designed by:关耳金名</string>
+    <string name="welcome">给你最好的知乎文章推荐</string>
+</resources>
